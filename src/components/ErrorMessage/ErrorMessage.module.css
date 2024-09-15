@@ -1,12 +1,11 @@
-.wrapper {
+.text {
   display: flex;
-  margin-top: auto;
-  margin-left: auto;
-  font-size: 56px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 60px; /* 107.143% */
-  letter-spacing: 1.12px;
-  color: #c72525;
-  text-align: center;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: red;
+
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 10px;
 }
